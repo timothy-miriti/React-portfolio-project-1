@@ -16,8 +16,7 @@ This app allows users to add new projects dynamically, search/filter projects, a
 
 ## Tech Stack
 - **React** (functional components, hooks)
-- **CSS Grid/Flexbox** for responsive styling
-- **Jest + React Testing Library** for unit testing
+- **CSS Grid and Flexbox for responsive styling
 - **GitHub** for version control and collaboration
 
 ---
@@ -39,7 +38,6 @@ src/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/portfolio-spa.git
    cd portfolio-spa
 
@@ -62,7 +60,7 @@ Example:
 npm test
 
 Responsive Design
-Uses CSS Grid/Flexbox for layout.
+Uses CSS Grid and Flexbox for layout.
 
 Automatically adapts to different screen sizes.
 
